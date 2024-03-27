@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenyuan Chen"
-  avatar           : "images/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/证件照_报名.png"
+  bio              : "He is a Ph.D. student at Nankai University from @IMPlus-PCALab under the supervision of Professor Xiang Li (http://implus.github.io/)."
   location         : "Tianjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zhenyuanchen424@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://github.com/Zhenyuan-Chen"
   bitbucket        :
   codepen          :
   dribbble         :
