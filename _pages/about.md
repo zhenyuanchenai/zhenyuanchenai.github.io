@@ -16,12 +16,11 @@ My research interest includes Vision-Language Model and Diffusion model.
 
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉🎉 Second prize of the 6th Open Source Innovation Competition Open Source Task Challenge Circuit. 
 - *2023.09*: &nbsp;🎉🎉 Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 49 teams). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 # 🎖 Honors and Awards
