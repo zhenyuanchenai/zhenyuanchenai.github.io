@@ -21,7 +21,7 @@ My research interest includes Vision-Language Model and Diffusion model.
 
 # 📝 Publications 
 
-
+# :trophy: Competitions
 
 # 🎖 Honors and Awards
 - *2023.11* The Second prize of the 6th Open Source Innovation Competition (Task of Open Source Challenge Circuit).
@@ -34,7 +34,7 @@ My research interest includes Vision-Language Model and Diffusion model.
   
 # 📖 Educations
 - *2020.09 - 2023.06*, M.S. in Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
