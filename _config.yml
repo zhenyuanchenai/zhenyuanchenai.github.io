@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zhenyuanchen424@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://github.com/Zhenyuan-Chen"
+  uri              : https://github.com/Zhenyuan-Chen
   bitbucket        :
   codepen          :
   dribbble         :
