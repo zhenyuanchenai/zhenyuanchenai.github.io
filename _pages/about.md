@@ -21,7 +21,7 @@ My research interest includes Vision-Language Model and Diffusion model.
 
 # 📝 Publications 
 
-# :trophy: Competitions
+# 🏆 Competitions
 - *2023.11* The Second prize of the 6th Open Source Innovation Competition (Task of Open Source Challenge Circuit).
   [[code](https://github.com/Rose-41/USS-jittor)][[certificate](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2023%E7%AC%AC%E5%85%AD%E5%B1%8A%E5%BC%80%E6%BA%90%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E5%BC%80%E6%BA%90%E4%BB%BB%E5%8A%A1%E6%8C%91%E6%88%98%E8%B5%9B%E9%81%93%E4%BA%8C%E7%AD%89%E5%A5%96.pdf)]
 - *2023.09* The Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 49 teams).
