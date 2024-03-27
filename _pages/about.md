@@ -38,8 +38,8 @@ My research interest includes Vision-Language Model and Diffusion model.
   
 
 # 💬 Invited Talks
-- *2023.10 and 11*, The GrokCV group will share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
-- *2020.06*, Achieve the 3rd place of Track 3 "[Weakly-supervised Object Localization](https://www.youtube.com/watch?v=sO2c_DyzVHo&t=5s)" in the [2nd Learning from Imperfect Data (LID) Workshop](https://lidchallenge.github.io/) in conjunction with CVPR 2020, invited by [Yunchao Wei](https://weiyc.github.io/).
+- *2023.10 and 11*, The GrokCV group share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
+- *2020.06*, Achieve the 3rd place of Track 3 "Weakly-supervised Object Localization [[video](https://www.youtube.com/watch?v=sO2c_DyzVHo&t=5s)]" in the [2nd Learning from Imperfect Data (LID) Workshop](https://lidchallenge.github.io/) in conjunction with CVPR 2020, invited by [Yunchao Wei](https://weiyc.github.io/).
 
 
 # 💻 Internships
