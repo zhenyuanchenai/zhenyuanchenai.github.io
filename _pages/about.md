@@ -13,10 +13,11 @@ redirect_from:
 I am currently a first-year Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a research intern at [MEGVII Research](https://research.megvii.com/).
 
 My research interest includes:
--> * Vision-Language Model 
--> * Diffusion Model 
--> * Weakly Supervised Learning
--> * Semantic Segmentation
+
+> *  Vision-Language Model 
+> *  Diffusion Model 
+> *  Weakly Supervised Learning
+> *  Semantic Segmentation
 
 
 # 🔥 News
