@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zhenyuan Chen"
+description              : "He is a Ph.D. student at Nankai University from @IMPlus-PCALab under the supervision of Professor Xiang Li (http://implus.github.io/). "
+repository               : "https://github.com/Zhenyuan-Chen"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,14 +30,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zhenyuanchen424@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://github.com/Zhenyuan-Chen
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zhenyuan-Chen"
+  github           : https://github.com/Zhenyuan-Chen
   google_plus      :
   keybase          :
   instagram        :
