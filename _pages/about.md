@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a research intern at [MEGVII Research](https://research.megvii.com/).
+I am currently a Ph.D. candidate student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a research intern at [MEGVII Research](https://research.megvii.com/).
 
 My research interest includes:
 
