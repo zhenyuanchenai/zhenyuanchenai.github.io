@@ -44,7 +44,7 @@ Cooming soon.
 - *2020.09 - 2023.06*, M.S. in Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
 
 # 💻 Internships
-- *2023.03 - Present*, [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
+- *2023.03 - Present*, [MEGVII Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
 - *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://baike.baidu.com/item/%E4%BA%AC%E4%B8%9C%E6%8E%A2%E7%B4%A2%E7%A0%94%E7%A9%B6%E9%99%A2/58115352), Nanjing Online. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
 
 # 💬 Invited Talks
