@@ -38,7 +38,7 @@ Cooming soon.
 - *2020.08* The 3rd place of CVPR 2020 LID challenge (Track of Weakly-supervised Object Localization). [[solutions](https://docs.google.com/presentation/d/16jJJjcP3wPG66kJggWjuOpYt-EpeRc54/edit#slide=id.p1)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/cvpr.pdf)]
 
 # 🎖 Honors and Awards
-- National Scholarship (Annual Selection Rate < 2%), Ministry of Education, China, 2021.
+- National Scholarship (Annual Selection Rate < 1%), Ministry of Education, China, 2021.
 
 # 📖 Educations
 - *2020.09 - 2023.06*, M.S. in Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
