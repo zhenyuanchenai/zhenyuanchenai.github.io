@@ -44,8 +44,8 @@ Cooming soon.
 - *2020.09 - 2023.06*, M.S. in Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
 
 # 💻 Internships
-- *2023.03 - Present* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
-- *2022.05 - 2023.03* [JD EXPLORE ACADEMY](https://baike.baidu.com/item/%E4%BA%AC%E4%B8%9C%E6%8E%A2%E7%B4%A2%E7%A0%94%E7%A9%B6%E9%99%A2/58115352), Nanjing Online. Visiting student. Led by [Yibing zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
+- *2023.03 - Present*, [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
+- *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://baike.baidu.com/item/%E4%BA%AC%E4%B8%9C%E6%8E%A2%E7%B4%A2%E7%A0%94%E7%A9%B6%E9%99%A2/58115352), Nanjing Online. Visiting student. Led by [Yibing zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
 
 # 💬 Invited Talks
 - *2023.10 and 11*, The GrokCV group share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
