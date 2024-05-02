@@ -45,7 +45,7 @@ Cooming soon.
 
 # 💻 Internships
 - *2023.03 - 2024.04*, [MEGVII Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
-- *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://baike.baidu.com/item/%E4%BA%AC%E4%B8%9C%E6%8E%A2%E7%B4%A2%E7%A0%94%E7%A9%B6%E9%99%A2/58115352), Nanjing Online. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
+- *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/), Nanjing Online. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
 
 # 💬 Invited Talks
 - *2023.10 and 11*, The GrokCV group share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
