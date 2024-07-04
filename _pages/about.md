@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a research intern at [Insta360](https://www.insta360.com/cn/jobs).
+I am currently a Ph.D. candidate student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a joint research and development at [Insta360](https://www.insta360.com/cn/jobs).
 
 My research interest includes:
 
