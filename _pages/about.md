@@ -40,6 +40,7 @@ Cooming soon.
 <!--
 # 🎖 Honors and Awards
 - National Scholarship (Annual Selection Rate < 1%), Ministry of Education, China, 2021.
+- Outstanding Graduate of Anhui Province, Outstanding Graduate of Anhui University of Finance and Economics, Ministry of Education, China, 2020.
 
 # ✍️ Professional Services
 - Journal Reviewer:  
