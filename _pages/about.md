@@ -37,18 +37,18 @@ Cooming soon.
 - *2021.08* The 3rd place of CVPR 2021 LID challenge (Track of Weakly-supervised Semantic Segmentation). [[solutions](https://docs.google.com/presentation/d/1Qps5EAGdi2fPzeZZ5llmGvvF57Sv8bcy/edit#slide=id.p1)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/cvpr21_3.pdf)]
 - *2020.08* The 3rd place of CVPR 2020 LID challenge (Track of Weakly-supervised Object Localization). [[solutions](https://docs.google.com/presentation/d/16jJJjcP3wPG66kJggWjuOpYt-EpeRc54/edit#slide=id.p1)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/cvpr.pdf)]
 
-[# 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - National Scholarship (Annual Selection Rate < 1%), Ministry of Education, China, 2021.
-
-# 📖 Educations
-- *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
-- *2020.09 - 2023.06*, M.S., Computer Science and Technology, Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
-- *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
 
 # ✍️ Professional Services
 - Journal Reviewer:  
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  
+
+[# 📖 Educations
+- *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
+- *2020.09 - 2023.06*, M.S., Computer Science and Technology, Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
+- *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
+
 # 💻 Internships
 - *2023.03 - 2024.04*, [MEGVII Research](https://megvii.com/), Nanjing. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
 - *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/), Nanjing Online. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
