@@ -44,7 +44,7 @@ Cooming soon.
 - Journal Reviewer:  
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
-[# 📖 Educations
+[//]: <> # 📖 Educations
 - *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
 - *2020.09 - 2023.06*, M.S., Computer Science and Technology, Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
 - *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
