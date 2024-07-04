@@ -37,7 +37,7 @@ Cooming soon.
 - *2021.08* The 3rd place of CVPR 2021 LID challenge (Track of Weakly-supervised Semantic Segmentation). [[solutions](https://docs.google.com/presentation/d/1Qps5EAGdi2fPzeZZ5llmGvvF57Sv8bcy/edit#slide=id.p1)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/cvpr21_3.pdf)]
 - *2020.08* The 3rd place of CVPR 2020 LID challenge (Track of Weakly-supervised Object Localization). [[solutions](https://docs.google.com/presentation/d/16jJJjcP3wPG66kJggWjuOpYt-EpeRc54/edit#slide=id.p1)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/cvpr.pdf)]
 
-# 🎖 Honors and Awards
+[# 🎖 Honors and Awards
 - National Scholarship (Annual Selection Rate < 1%), Ministry of Education, China, 2021.
 
 # 📖 Educations
@@ -56,6 +56,6 @@ Cooming soon.
 # 💬 Invited Talks
 - *2023.10 and 11*, The GrokCV group share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
 - *2020.06*, Achieve the 3rd place of Track 3 "Weakly-supervised Object Localization [[video](https://www.youtube.com/watch?v=sO2c_DyzVHo&t=5s)]" in the [2nd Learning from Imperfect Data (LID) Workshop](https://lidchallenge.github.io/) in conjunction with CVPR 2020, invited by [Yunchao Wei](https://weiyc.github.io/).
-
+](url)
 
 
