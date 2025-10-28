@@ -47,9 +47,9 @@ Cooming soon.
 
 # ✍️ Professional Services
 - Journal Reviewer:  
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  Pattern Recognition (PR)
-  Visual Intelligence (VI)
+  -- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  -- Pattern Recognition (PR)
+  -- Visual Intelligence (VI)
 
  # 📖 Educations
 - *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
