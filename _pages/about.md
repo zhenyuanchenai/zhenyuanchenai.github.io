@@ -15,9 +15,8 @@ I am currently a Ph.D. candidate student at Tianjin Key Laboratory of Visual Com
 My research interest includes:
 
 > *  Vision-Language Model 
-> *  Diffusion Model 
-> *  Weakly Supervised Learning
-> *  Semantic Segmentation
+> *  Diffusion Model
+> *  Video Understanding
 
 
 # 🔥 News
