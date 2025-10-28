@@ -29,6 +29,10 @@ My research interest includes:
 Cooming soon.
 
 # 🏆 Competitions
+- *2025.11* The first prize of the 8th Open Source Innovation Competition (Task of Open Source Challenge Circuit).
+- [[solutions](https://docs.google.com/presentation/d/1o3Z5PCJ_EWyP-IrCA6t57XqA3QxXiXcJ/edit?usp=drive_link&ouid=117231763684180453695&rtpof=true&sd=true)[code](https://github.com/chaineypung/jittor-ReductLab-breast_cancer_cls)]
+- *2025.10* The Champion of 2025 Jittor AI competition, 50,000 RMB bonus (1th from 100+ teams).
+  [[solutions](https://docs.google.com/presentation/d/1o3Z5PCJ_EWyP-IrCA6t57XqA3QxXiXcJ/edit?usp=drive_link&ouid=117231763684180453695&rtpof=true&sd=true)[code](https://github.com/chaineypung/jittor-ReductLab-breast_cancer_cls)]
 - *2023.11* The Second prize of the 6th Open Source Innovation Competition (Task of Open Source Challenge Circuit).
   [[code](https://github.com/Rose-41/USS-jittor)][[certificate](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2023%E7%AC%AC%E5%85%AD%E5%B1%8A%E5%BC%80%E6%BA%90%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E5%BC%80%E6%BA%90%E4%BB%BB%E5%8A%A1%E6%8C%91%E6%88%98%E8%B5%9B%E9%81%93%E4%BA%8C%E7%AD%89%E5%A5%96.pdf)]
 - *2023.09* The Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 49 teams).
