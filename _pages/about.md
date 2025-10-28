@@ -49,18 +49,20 @@ Cooming soon.
 - Journal Reviewer:  
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   Pattern Recognition (PR)
+  Visual Intelligence (VI)
 
  # 📖 Educations
 - *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
 - *2020.09 - 2023.06*, M.S., Computer Science and Technology, Nanjing University of Science and Technology. Advised by Prof. [Chen Gong](https://gcatnjust.github.io/ChenGong/index.html).
-//- *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
+- *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
 
 # 💻 Internships
+- *2024.10 - 2025.05*，[ENNGroup](https://www.enn.cn/), Langfang, China. Head of Algorithm Architecture at Zhixin Lab (NKU-ENN).
 - *2024.04 - 2024.10*，[Insta360](https://www.insta360.com/cn/jobs), Shenzhen, China. Joint research and development.
 - *2023.03 - 2024.04*, [MEGVII Research](https://megvii.com/), Nanjing, China. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
 - *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/), Nanjing Online, China. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
 
 # 💬 Invited Talks
-- *2023.10 and 11*, The GrokCV group share [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
+- *2024.07、2023.10 and 11*, The GrokCV group share [LLM](https://www.bilibili.com/video/BV1xb421J73M/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Prof.Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
 - *2020.06*, Achieve the 3rd place of Track 3 "Weakly-supervised Object Localization [[video](https://www.youtube.com/watch?v=sO2c_DyzVHo&t=5s)]" in the [2nd Learning from Imperfect Data (LID) Workshop](https://lidchallenge.github.io/) in conjunction with CVPR 2020, invited by [Yunchao Wei](https://weiyc.github.io/).
 
