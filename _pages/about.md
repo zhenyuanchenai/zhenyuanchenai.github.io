@@ -47,6 +47,7 @@ Cooming soon.
 
 # ✍️ Professional Services
 - Journal Reviewer:
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Pattern Recognition (PR)
   - Visual Intelligence (VI)
