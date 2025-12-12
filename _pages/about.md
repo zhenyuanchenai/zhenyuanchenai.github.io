@@ -58,7 +58,7 @@ Cooming soon.
 - *2016.09 - 2020.06*, B.Eng., Double Bachelor's Degrees in Computer Science and Finance, Anhui University of Finance and Economics.
 
 # 💻 Internships
-- *2024.10 - 2025.05*, [ENNGroup](https://www.enn.cn/), Langfang, China. Head of Algorithm Architecture at Zhixin Lab (NKU-ENN).
+- *2024.10 - 2025.05*, [ENNGroup](https://www.enn.cn/), Langfang, China. Head of Algorithm Architecture at NKU-ENN Lab.
 - *2024.04 - 2024.10*, [Insta360](https://www.insta360.com/cn/jobs), Shenzhen, China. Joint research and development.
 - *2023.03 - 2024.04*, [MEGVII Research](https://megvii.com/), Nanjing, China. Research Intern. Led by [Jiajun Liang](https://scholar.google.com.hk/citations?user=xNxlvjEAAAAJ&hl=zh-CN).
 - *2022.05 - 2023.03*, [JD EXPLORE ACADEMY](https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/), Nanjing Online, China. Visiting student. Led by [Yibing Zhan](https://scholar.google.com/citations?user=rjd977cAAAAJ&hl=zh-CN).
