@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/). I am also a joint research and development at [Insta360](https://www.insta360.com/cn/jobs).
+I am currently a Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [College of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/).
 
 My research interest includes:
 
@@ -29,7 +29,7 @@ Cooming soon.
 
 # 🏆 Competitions
 - *2025.10* 🥇The Champion of 2025 Jittor AI competition, 50,000 RMB bonus (1th from 100+ teams).
-  [[solutions](https://docs.google.com/presentation/d/1o3Z5PCJ_EWyP-IrCA6t57XqA3QxXiXcJ/edit?usp=drive_link&ouid=117231763684180453695&rtpof=true&sd=true)][[code](https://github.com/chaineypung/jittor-ReductLab-breast_cancer_cls)]
+  [[solutions](https://docs.google.com/presentation/d/1o3Z5PCJ_EWyP-IrCA6t57XqA3QxXiXcJ/edit?usp=drive_link&ouid=117231763684180453695&rtpof=true&sd=true)][[code](https://github.com/chaineypung/jittor-ReductLab-breast_cancer_cls)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/1st第五届计图比赛证书.pdf)]
 - *2023.09* 🥈The Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 100+ teams).
   [[solutions](https://docs.google.com/presentation/d/1dGCrVgahOedlZOG39SkQG2bvBo0D3wEo/edit?usp=sharing&ouid=117231763684180453695&rtpof=true&sd=true)][[code](https://github.com/Rose-41/USS-jittor)][[certificate](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2023%E8%AE%A1%E5%9B%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E7%9B%91%E7%9D%A3%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E4%BA%8C%E7%AD%89%E5%A5%96.jpg)]
 - *2023.11* 🥈The Second prize of the 6th Open Source Innovation Competition (Task of Unsupervised Semantic Segmentation).
