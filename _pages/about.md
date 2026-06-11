@@ -20,6 +20,7 @@ My research interest includes:
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Champion of 2025 Jittor AI competition, 50,000 RMB bonus (1th from 100+ teams).
 - *2023.11*: &nbsp;🎉🎉 Second prize of the 6th Open Source Innovation Competition (Task of Open Source Challenge Circuit). 
 - *2023.09*: &nbsp;🎉🎉 Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 49 teams). 
 
