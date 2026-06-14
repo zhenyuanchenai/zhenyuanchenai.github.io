@@ -50,8 +50,9 @@ Cooming soon.
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Pattern Recognition (PR)
   - Visual Intelligence (VI)
+  - Image and Vision Computing Journal (IVCJ)
 - Conference Reviewer:
-  - European Conference on Computer Vision (ECCV)
+  - European Conference on Computer Vision (ECCV26)
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D., Computer Science and Technology, Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/).
