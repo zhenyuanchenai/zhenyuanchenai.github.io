@@ -50,7 +50,7 @@ Cooming soon.
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Pattern Recognition (PR)
   - Visual Intelligence (VI)
-  - Image and Vision Computing Journal (IVCJ)
+  - Image and Vision Computing Journal (IMAVIS)
 - Conference Reviewer:
   - European Conference on Computer Vision (ECCV26)
 
