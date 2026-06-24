@@ -32,14 +32,13 @@ Cooming soon.
 
 <div class="project-box">
   <div class="project-box-image">
-    <img src="/images/arxiclaw_logo.png" alt="arxiClaw">
+    <img src="/images/arxiclaw_logo_black.png" alt="arxiClaw">
   </div>
   <div class="project-box-text">
-    <h3><a href="https://arxiclaw.reduct.cn/">arxiClaw</a>: Academic Paper Retrieval and Multi-Agent Analysis</h3>
+    <h3><a href="https://arxiclaw.reduct.cn/">arxiClaw</a>: Academic Paper Retrieval and Multi-Agent Analysis Platform</h3>
     <p class="project-role"><strong>Role:</strong> Project Lead / Full-Stack Core Developer</p>
-    <p class="project-summary">An open-source platform for academic paper aggregation, retrieval, and agent-based analysis, built to reduce data silos and information overload in research workflows.</p>
-    <p class="project-contribution">Built the system from scratch, covering the web platform, distributed crawling and cleaning pipeline, and multi-agent service engine for complex academic tasks.</p>
-    <p class="project-tags"><span>Academic Search</span><span>Multi-Agent</span><span>Full-Stack</span></p>
+    <p class="project-summary"><strong>Summary:</strong> An open-source research platform that integrates academic paper aggregation, retrieval, and LLM-agent based analysis to support literature tracking, paper triage, and in-depth reading.</p>
+    <p class="project-contribution"><strong>Contribution:</strong> Initiated and built the system from scratch, including the web interface, distributed crawling and cleaning pipeline, and multi-agent service engine for complex academic workflows.</p>
   </div>
 </div>
 
@@ -48,11 +47,10 @@ Cooming soon.
     <img src="/images/SmartVideoCLip.png" alt="SmartVideoClip">
   </div>
   <div class="project-box-text">
-    <h3>SmartVideoClip: Intelligent Automated Video Editing</h3>
+    <h3>SmartVideoClip: Intent-Driven Automated Video Editing</h3>
     <p class="project-role"><strong>Role:</strong> Overall Algorithm Architect / End-to-End Pipeline Lead</p>
-    <p class="project-summary">An open-source system for fully automated video creation, connecting user intent understanding, multimodal asset analysis, script planning, and audio-video synthesis into one end-to-end pipeline.</p>
-    <p class="project-contribution">Led the core algorithm architecture, including cross-modal media understanding, editing/directing strategy scheduling, and multi-track audio-video alignment.</p>
-    <p class="project-tags"><span>Video Editing</span><span>Multimodal AI</span><span>Auto Synthesis</span></p>
+    <p class="project-summary"><strong>Summary:</strong> An open-source automated video editing system that connects user intent understanding, multimodal asset analysis, script planning, and audio-video synthesis in a unified generation pipeline.</p>
+    <p class="project-contribution"><strong>Contribution:</strong> Designed and led the core algorithm architecture, covering cross-modal media understanding, editing/directing strategy scheduling, and multi-track audio-video alignment.</p>
   </div>
 </div>
 
