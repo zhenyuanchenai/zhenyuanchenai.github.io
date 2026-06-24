@@ -87,6 +87,117 @@
 
 }
 
+.project-box {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 1.1em 0 1.25em 0;
+    padding: 0.9em;
+    background: #fff;
+    border: 1px solid #edf0f2;
+    border-radius: $border-radius;
+    box-shadow: 0 1px 4px rgba(#000, 0.04);
+
+    .project-box-image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        max-width: 460px;
+        min-height: 154px;
+        margin-bottom: 1em;
+        padding: 18px;
+        background: linear-gradient(135deg, #eef4f8 0%, #f7fafc 100%);
+        border: 1px solid #e3ebf2;
+        border-radius: $border-radius;
+
+        img {
+            display: block;
+            width: 100%;
+            max-height: 138px;
+            object-fit: contain;
+        }
+    }
+
+    .project-box-text {
+        width: 100%;
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0.3em;
+            font-family: $sans-serif-narrow;
+            font-size: 1.08em;
+            line-height: 1.35;
+        }
+
+        p {
+            margin-bottom: 0.55em;
+        }
+
+        .project-role {
+            margin-bottom: 0.75em;
+            color: mix(#000, $gray, 25%);
+        }
+
+        .project-summary,
+        .project-contribution {
+            line-height: 1.55;
+        }
+
+        .project-contribution {
+            margin-bottom: 0;
+        }
+
+        .project-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.45em;
+            margin-top: 0.85em;
+            margin-bottom: 0;
+
+            span {
+                display: inline-block;
+                padding: 0.18em 0.55em;
+                color: mix(#000, $info-color, 15%);
+                font-size: $type-size-7;
+                line-height: 1.35;
+                background: mix(#fff, $info-color, 92%);
+                border: 1px solid mix(#fff, $info-color, 82%);
+                border-radius: $border-radius;
+            }
+        }
+    }
+
+    @include breakpoint($small) {
+        flex-wrap: nowrap;
+
+        .project-box-image {
+            flex: 0 0 245px;
+            max-width: 245px;
+            margin-bottom: 0;
+        }
+
+        .project-box-text {
+            flex: 1 1 auto;
+            padding-left: 1.55em;
+        }
+    }
+
+    @include breakpoint($medium) {
+        padding: 1em;
+
+        .project-box-image {
+            flex-basis: 260px;
+            max-width: 260px;
+        }
+
+        .project-box-text {
+            padding-left: 1.8em;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

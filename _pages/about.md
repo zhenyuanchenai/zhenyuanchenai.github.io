@@ -28,6 +28,34 @@ My research interest includes:
 
 Cooming soon.
 
+# 🛠️ Projects
+
+<div class="project-box">
+  <div class="project-box-image">
+    <img src="/images/arxiclaw_logo.png" alt="arxiClaw">
+  </div>
+  <div class="project-box-text">
+    <h3><a href="https://arxiclaw.reduct.cn/">arxiClaw</a>: Academic Paper Retrieval and Multi-Agent Analysis</h3>
+    <p class="project-role"><strong>Role:</strong> Project Lead / Full-Stack Core Developer</p>
+    <p class="project-summary">An open-source platform for academic paper aggregation, retrieval, and agent-based analysis, built to reduce data silos and information overload in research workflows.</p>
+    <p class="project-contribution">Built the system from scratch, covering the web platform, distributed crawling and cleaning pipeline, and multi-agent service engine for complex academic tasks.</p>
+    <p class="project-tags"><span>Academic Search</span><span>Multi-Agent</span><span>Full-Stack</span></p>
+  </div>
+</div>
+
+<div class="project-box">
+  <div class="project-box-image">
+    <img src="/images/SmartVideoCLip.png" alt="SmartVideoClip">
+  </div>
+  <div class="project-box-text">
+    <h3>SmartVideoClip: Intelligent Automated Video Editing</h3>
+    <p class="project-role"><strong>Role:</strong> Overall Algorithm Architect / End-to-End Pipeline Lead</p>
+    <p class="project-summary">An open-source system for fully automated video creation, connecting user intent understanding, multimodal asset analysis, script planning, and audio-video synthesis into one end-to-end pipeline.</p>
+    <p class="project-contribution">Led the core algorithm architecture, including cross-modal media understanding, editing/directing strategy scheduling, and multi-track audio-video alignment.</p>
+    <p class="project-tags"><span>Video Editing</span><span>Multimodal AI</span><span>Auto Synthesis</span></p>
+  </div>
+</div>
+
 # 🏆 Competitions
 - *2025.10* 🥇The Champion of 2025 Jittor AI competition, 50,000 RMB bonus (1th from 100+ teams).
   [[solutions](https://docs.google.com/presentation/d/1o3Z5PCJ_EWyP-IrCA6t57XqA3QxXiXcJ/edit?usp=drive_link&ouid=117231763684180453695&rtpof=true&sd=true)][[code](https://github.com/chaineypung/jittor-ReductLab-breast_cancer_cls)][[certificate](https://github.com/Rose-41/ZhenyuanChen.github.io/blob/main/images/1st第五届计图比赛证书.pdf)]
@@ -68,4 +96,3 @@ Cooming soon.
 # 💬 Invited Talks
 - *2024.07、2023.10 and 11*, The GrokCV group share [LLM](https://www.bilibili.com/video/BV1xb421J73M/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [CLIP](https://www.bilibili.com/video/BV1G94y177Qs/?spm_id_from=333.999.0.0&vd_source=5d94831d6e7d1ae25d5637b557799c8c) and [Weakly Supervised Semantic Segmentation](https://www.bilibili.com/video/BV1Nj411i7YZ/?spm_id_from=333.999.0.0), invited by [Prof.Yimian Dai](https://scholar.google.com.hk/citations?user=y5Ov6VAAAAAJ&hl=zh-CN).
 - *2020.06*, Achieve the 3rd place of Track 3 "Weakly-supervised Object Localization [[video](https://www.youtube.com/watch?v=sO2c_DyzVHo&t=5s)]" in the [2nd Learning from Imperfect Data (LID) Workshop](https://lidchallenge.github.io/) in conjunction with CVPR 2020, invited by [Yunchao Wei](https://weiyc.github.io/).
-
