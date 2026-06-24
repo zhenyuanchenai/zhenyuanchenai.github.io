@@ -88,24 +88,30 @@
 }
 
 .project-box {
-    @include clearfix();
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
     margin: 0;
-    padding: 1.25em 0 1.35em 0;
+    padding: 1.25em 0 1.35em;
     border-bottom: 1px solid $border-color;
 
     .project-box-image {
-        margin: 0.15em 0 0.9em 0;
+        flex: 0 0 auto;
+        width: 100%;
+        margin: 0.15em 0 0.9em;
 
         img {
             display: block;
             width: 100%;
-            max-width: 360px;
+            max-width: 340px;
             max-height: 100px;
             object-fit: contain;
         }
     }
 
     .project-box-text {
+        flex: 1 1 auto;
+
         h3 {
             margin-top: 0;
             margin-bottom: 0.28em;
@@ -138,18 +144,18 @@
     }
 
     @include breakpoint($small) {
+        flex-direction: row;
+
         .project-box-image {
-            float: left;
-            width: 30%;
-            max-width: 260px;
-            margin: 0.2em 1.5em 0.55em 0;
+            width: 250px;
+            margin: 0.25em 1.55em 0 0;
         }
     }
 
     @include breakpoint($medium) {
         .project-box-image {
-            max-width: 260px;
-            margin-right: 1.55em;
+            width: 270px;
+            margin-right: 1.7em;
         }
     }
 
@@ -174,7 +180,7 @@
 
         &--smartvideo {
             .project-box-image {
-                max-width: 255px;
+                margin-top: 0.1em;
             }
         }
     }
