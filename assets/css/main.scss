@@ -89,20 +89,18 @@
 
 .project-box {
     @include clearfix();
-    margin: 1.15em 0 1.35em 0;
-    padding: 1em 0 1.15em 0;
-    border-top: 1px solid #edf0f2;
-    border-bottom: 1px solid #edf0f2;
-    border-radius: $border-radius;
+    margin: 0;
+    padding: 1.25em 0 1.35em 0;
+    border-bottom: 1px solid $border-color;
 
     .project-box-image {
-        margin: 0.2em 0 0.9em 0;
+        margin: 0.15em 0 0.9em 0;
 
         img {
             display: block;
             width: 100%;
-            max-width: 420px;
-            max-height: 120px;
+            max-width: 360px;
+            max-height: 100px;
             object-fit: contain;
         }
     }
@@ -110,24 +108,28 @@
     .project-box-text {
         h3 {
             margin-top: 0;
-            margin-bottom: 0.35em;
+            margin-bottom: 0.28em;
             font-family: $sans-serif-narrow;
-            font-size: 1.1em;
-            line-height: 1.35;
+            font-size: 1.08em;
+            line-height: 1.32;
         }
 
         p {
-            margin-bottom: 0.6em;
+            margin-bottom: 0.52em;
         }
 
         .project-role {
-            margin-bottom: 0.7em;
-            color: mix(#000, $gray, 25%);
+            margin-bottom: 0.62em;
+            color: mix(#000, $gray, 18%);
         }
 
         .project-summary,
         .project-contribution {
-            line-height: 1.58;
+            line-height: 1.55;
+
+            strong {
+                color: $dark-gray;
+            }
         }
 
         .project-contribution {
@@ -138,24 +140,41 @@
     @include breakpoint($small) {
         .project-box-image {
             float: left;
-            width: 34%;
-            max-width: 285px;
-            margin: 0.25em 1.45em 0.65em 0;
-
-            img {
-                max-height: 105px;
-            }
+            width: 30%;
+            max-width: 260px;
+            margin: 0.2em 1.5em 0.55em 0;
         }
     }
 
     @include breakpoint($medium) {
         .project-box-image {
-            width: 36%;
-            max-width: 320px;
-            margin-right: 1.7em;
+            max-width: 260px;
+            margin-right: 1.55em;
+        }
+    }
 
-            img {
-                max-height: 116px;
+    &--arxiclaw {
+        .project-box-image img {
+            max-height: 78px;
+        }
+    }
+
+    &--smartvideo {
+        .project-box-image img {
+            max-height: 104px;
+        }
+    }
+
+    @include breakpoint($medium) {
+        &--arxiclaw {
+            .project-box-image {
+                margin-top: 0.35em;
+            }
+        }
+
+        &--smartvideo {
+            .project-box-image {
+                max-width: 255px;
             }
         }
     }

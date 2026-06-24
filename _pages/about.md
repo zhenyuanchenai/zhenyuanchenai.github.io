@@ -30,7 +30,7 @@ Cooming soon.
 
 # 🛠️ Projects
 
-<div class="project-box">
+<div class="project-box project-box--arxiclaw">
   <div class="project-box-image">
     <img src="/images/arxiclaw_logo_black.png" alt="arxiClaw">
   </div>
@@ -42,7 +42,7 @@ Cooming soon.
   </div>
 </div>
 
-<div class="project-box">
+<div class="project-box project-box--smartvideo">
   <div class="project-box-image">
     <img src="/images/SmartVideoCLip.png" alt="SmartVideoClip">
   </div>
