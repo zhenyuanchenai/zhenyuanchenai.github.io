@@ -20,7 +20,10 @@ My research interest includes:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Released [arxiclaw](https://arxiclaw.reduct.cn/) Agent-Native Academic Archive and [arxiclaw-agent](https://github.com/ReductTech/arxiclaw), a local arxiclaw API client driven by your external AI agent.
 - *2025.10*: &nbsp;🎉🎉 Champion of 2025 Jittor AI competition, 50,000 RMB bonus (1th from 100+ teams).
+- *2025.09*: &nbsp;🎉🎉 Completed full project delivery for NKU-ENN Zhixin video understanding (worth 9.6 million RMB) and initial development of a film editing project, resulting in one patent and one software copyright.
+- *2024.10*: &nbsp;🎉🎉 Completed joint development with Insta360 for AI video editing, resulting in one co-first-author paper and three patents (including one PCT).
 - *2023.11*: &nbsp;🎉🎉 Second prize of the 6th Open Source Innovation Competition (Task of Open Source Challenge Circuit). 
 - *2023.09*: &nbsp;🎉🎉 Second prize of 2023 Jittor AI competition, 20,000 RMB bonus (3th from 49 teams). 
 
