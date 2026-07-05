@@ -36,14 +36,6 @@ Cooming soon.
 <div class="project-box project-box--arxiclaw">
   <div class="project-box-image">
     <img src="/images/arxiclaw_logo_black.png" alt="arxiClaw">
-        <div class="project-links">
-          <a href="https://arxiclaw.reduct.cn/" target="_blank" rel="noopener">
-            🌐 Website
-          </a>
-          <a href="https://github.com/ReductTech/arxiclaw" target="_blank" rel="noopener">
-            🤖 Agents
-          </a>
-    </div>
   </div>
   <div class="project-box-text">
     <h3><a href="https://arxiclaw.reduct.cn/">arxiClaw</a>: Academic Paper Retrieval and Multi-Agent Analysis Platform</h3>
