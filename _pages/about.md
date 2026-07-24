@@ -47,7 +47,7 @@ Cooming soon.
 
 <div class="project-box project-box--smartvideo">
   <div class="project-box-image">
-    <img src="/images/SmartVideoCLip.png" alt="SmartVideoClip">
+    <img src="/images/图片1.png" alt="SmartVideoClip">
   </div>
   <div class="project-box-text">
     <h3>SmartVideoClip: Intent-Driven Automated Video Editing</h3>
