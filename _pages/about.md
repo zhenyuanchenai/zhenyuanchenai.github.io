@@ -74,6 +74,8 @@ Cooming soon.
 - Outstanding Graduate of Anhui Province, Ministry of Education, China, 2020.
 
 # ✍️ Professional Services
+- Guest Editor:
+  - Electronics (MDPI), Special Issue: *"Next-Generation Explainable AI: Emerging Trends and Future Prospects"*, 2026–2027
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -82,6 +84,7 @@ Cooming soon.
   - Visual Intelligence (VI)
   - Image and Vision Computing Journal (IMAVIS)
 - Conference Reviewer:
+  - Computer Vision and Pattern Recognition (CVPR27)
   - European Conference on Computer Vision (ECCV26)
 
 # 📖 Educations
