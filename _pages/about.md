@@ -14,9 +14,9 @@ I am currently a Ph.D. student at Tianjin Key Laboratory of Visual Computing and
 
 My research interest includes:
 
-> *  Vision-Language Model 
-> *  Diffusion Model
-> *  Video Understanding
+> *  Recursive Self-Improvement in Agentic AI
+> *  Multimodal Understanding Model
+> *  Generative Perception Model
 
 
 # 🔥 News
